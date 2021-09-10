@@ -16,9 +16,6 @@
   "dependencies": {
     "if-env": "^1.0.4"
   },
-  "engines": {
-    "node": "14.16.1"
-  },
   "devDependencies": {
     "concurrently": "^5.1.0"
   }
